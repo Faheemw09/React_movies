@@ -1,8 +1,18 @@
 Filmnook is a movie information application that allows users to explore and discover movies. Users can search for movies, sort them by year or rating, filter by genre, and view detailed information about each movie. The app also includes features such as user authentication, allowing users to log in, sign up, and save their favorite movies.
-Deployment
+
+
+ # Deployment
+
+
+
 The Filmnook app is deployed on Vercel. Visit the deployed app at 
 https://filmnook.vercel.app/
-Tech Stack
+
+
+
+
+
+# Tech Stack
 HTML
 CSS
 React.js
